@@ -1,4 +1,4 @@
-# Hand-connector# Advanced Hand Tracking AR – README
+# Advanced Hand Tracking AR – README
 
 ## Project Overview
 Advanced Hand Tracking AR (Neon Aura AR) is a browser-based Augmented Reality web application that uses MediaPipe Hands and the Web Audio API to create an interactive hand-tracking experience. Users can control visual effects, particle systems, shockwaves, neon animations, and sound effects using real-time hand gestures captured through their webcam.
@@ -70,7 +70,7 @@ Advanced Hand Tracking AR (Neon Aura AR) is a browser-based Augmented Reality we
 - VR Integration
 
 ## Author
-Guna Sekar
+GunaSekar
 
 ## License
 This project is intended for educational and learning purposes.
